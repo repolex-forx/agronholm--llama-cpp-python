@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/llama-cpp-python/commit/803924b02cc8ca7531b70e6497d1ff7b83f75737",
       "git:hexsha": "803924b02cc8ca7531b70e6497d1ff7b83f75737",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.3.5-metal"
     },
     {
